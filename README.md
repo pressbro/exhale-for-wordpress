@@ -1,2 +1,3 @@
-# exhale-for-wordpress
-Compress your images with this handy WordPress plugin.
+# Exhale for WordPress
+
+Read more about this plugin at [https://pressbro.com/exhale](https://pressbro.com/exhale).
